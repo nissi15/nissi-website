@@ -1,0 +1,53 @@
+.red-text
+{
+  color: rgb(36, 45, 53);
+  text-shadow: black;
+  text-align: top left;
+}
+.button{
+  color: black;
+  box-shadow: #63d6b0;
+  color:rgb(1, 4, 5)
+}
+.app
+{
+background-color: black;
+}
+.body{
+  background-color: gray;  
+}
+.blue-text {
+  color: rgb(92, 197, 238);
+}
+.larger-image {
+  width: 1000px;
+}
+.contacts {
+padding: ;
+
+}
+.img2 {
+  padding: -5px 20px -20px -5px;
+}
+.img {
+width: 500px; 
+height: 500px;
+padding: 500px -5px -5px -50px;
+align-items: flex-start
+Margin: -20px;
+}
+.white-text {
+  color: white;
+  text-align: center;
+}
+.img3 {
+  margin: ;
+  padding: ;
+  width: ;
+  height: ;
+}  
+.alignments {
+text-align: left;
+}
+
+
